@@ -10,3 +10,5 @@ Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užd
 [02.02 Pirmosios Python programos](https://gamma.app/docs/1103-Pirmosios-Python-programos-kurimas-cd3s1mkgbmgkt16)
 
 [02.03 Tiesiniai algoritmai: įvestis ir išvestis, Kintamieji ir duomenų tipai, Aritmetiniai ir loginiai operatoriai](https://gamma.app/docs/110401-Programavimo-pamokeles-8od8os6jbvs9lzl)
+
+🛟[02.01-02.02 ATMINTINĖ](https://python-vienuolikta.finefox131.chatgpt.site/) 
