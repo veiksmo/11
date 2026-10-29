@@ -19,3 +19,6 @@ Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užd
 
 👉 1️⃣ [02.05 Python. Cikliniai algoritmai](https://gamma.app/docs/110403-Cikliniai-algoritmai-wcz4fnf503wmx6z)
 
+🛟 [02.04 ATMINTINĖ: Šakotieji algoritmai](https://python-sakotieji-algoritmai.finefox131.chatgpt.site)
+
+🛟 [02.04 ATMINTINĖ: Cikliniai algoritmai](https://python-ciklu-laboratorija.finefox131.chatgpt.site)
