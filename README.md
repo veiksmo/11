@@ -15,8 +15,7 @@ Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užd
 
 [02.05 Python. Cikliniai algoritmai](https://gamma.app/docs/110403-Cikliniai-algoritmai-wcz4fnf503wmx6z)
 
-[02.06 Python. Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/1105-Sumos-vidurkio-kiekio-min-max-algoritmai-d902vol2a3v6485)
-
+[02.06 Python. Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/11-0206-Sumos-vidurkio-kiekio-min-max-algoritmai-nj79crog1ms51tc)
 ## ✍️ Praktika ✍️
 [01.02 Kompiuterių tinklai. (DNS praktika)](https://github.com/kachialov/11/blob/main/01-Kompiuteriu_tinklai/DNS_ir_duomenu_tyrimas.docx)
 
