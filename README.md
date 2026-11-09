@@ -1,7 +1,7 @@
 # III klasė INFORMATIKA 
 Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užduotys 
 
-## 🧐 Teorija 🧐
+## 🎓 Teorija 🎓
 
 [01.01 Kompiuterių tinklai.](https://github.com/kachialov/11/blob/main/01-Kompiuteriu_tinklai/01-Kompiuteri%C5%B3_tinklai.pdf)
 
@@ -20,12 +20,14 @@ Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užd
 [01.02 Kompiuterių tinklai. (DNS praktika)](https://github.com/kachialov/11/blob/main/01-Kompiuteriu_tinklai/DNS_ir_duomenu_tyrimas.docx)
 
 
-## 🛟 ATMINTINĖS 🛟
+## 🌐 Interaktyvūs žiniatinklio portalai, skirti savarankiškam mokymuisi 🌐
 
-[02.01-02.02 ATMINTINĖ: Pirmosios Python programos](https://python-vienuolikta.finefox131.chatgpt.site/)
+[02.01-02.02 Pirmosios Python programos](https://python-vienuolikta.finefox131.chatgpt.site/)
 
-[02.03 ATMINTINĖ: Pirmosios Python programos](https://python-operacijos-vienuolikta.finefox131.chatgpt.site)
+[02.03 Pirmosios Python programos](https://python-operacijos-vienuolikta.finefox131.chatgpt.site)
 
-[02.04 ATMINTINĖ: Šakotieji algoritmai](https://python-sakotieji-algoritmai.finefox131.chatgpt.site)
+[02.04 Šakotieji algoritmai](https://python-sakotieji-algoritmai.finefox131.chatgpt.site)
 
-[02.05 ATMINTINĖ: Cikliniai algoritmai](https://python-ciklu-laboratorija.finefox131.chatgpt.site)
+[02.05 Cikliniai algoritmai](https://python-ciklu-laboratorija.finefox131.chatgpt.site)
+
+[02.06 Python. Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://python-skaiciavimo-algoritmai.a-gorbatniov.chatgpt.site/)
