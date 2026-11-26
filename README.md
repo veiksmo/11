@@ -19,14 +19,16 @@ Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užd
 
 03 Python. Funkcijos [1 pamoka](https://github.com/veiksmo/11/blob/main/03_Funkcijos/Pamoka_1_Funkciju_pagrindai.pdf)
 
-👉 [04 Python. Sąrašai](https://gamma.app/docs/1104-Sarasai-uba6dj9yrtu3oue)
+👉 [04 Python. Sąrašai (list)](https://gamma.app/docs/1104-Sarasai-uba6dj9yrtu3oue)
+
+[05 Python. Aibės (set)](https://gamma.app/docs/1105-Aibes-10y6jkloryzbery)
 
 ## ✍️ Praktika ✍️
 [01.02 Kompiuterių tinklai. (DNS praktika)](https://github.com/kachialov/11/blob/main/01-Kompiuteriu_tinklai/DNS_ir_duomenu_tyrimas.docx)
 
 [03 Funkcijos](https://github.com/veiksmo/11/blob/main/03_Funkcijos/Praktines_uzduotys_Funkcijos.pdf)
 
-👉 [04 Python. Sąrašai](https://gamma.app/docs/1104-Sarasai-praktika-8tgb5iol20qjzph)
+👉 [04 Python. Sąrašai (list)](https://gamma.app/docs/1104-Sarasai-praktika-8tgb5iol20qjzph)
 
 ## 🌐 Interaktyvūs žiniatinklio portalai, skirti savarankiškam mokymuisi 🌐
 
