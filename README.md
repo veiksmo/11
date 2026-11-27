@@ -17,7 +17,9 @@ Vilniaus "Veiksmo" gimnazijos III klasės informatikos pamokos medžiaga ir užd
 
 [02.06 Python. Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/11-0206-Sumos-vidurkio-kiekio-min-max-algoritmai-nj79crog1ms51tc)
 
-03 Python. Funkcijos [1 pamoka](https://github.com/veiksmo/11/blob/main/03_Funkcijos/Pamoka_1_Funkciju_pagrindai.pdf)
+03 Python. Funkcijos 
+[1 pamoka](https://github.com/veiksmo/11/blob/main/03_Funkcijos/Pamoka_1_Funkciju_pagrindai.pdf)
+[2 pamoka](https://github.com/veiksmo/11/blob/main/03_Funkcijos/Pamoka_2_Return_ir_taikymas.pdf)
 
 👉 [04 Python. Sąrašai (list)](https://gamma.app/docs/1104-Sarasai-uba6dj9yrtu3oue)
 
